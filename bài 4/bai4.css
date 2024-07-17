@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 20vh;
+    background-color: #f0f0f0;
+}
+
+.clock {
+    font-size: 3rem;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+body.background-1{
+    background-image: url('https: //th.bing.com/th/id/OIP.eHJlYP0qP_1YyX4mPkf9kwHaEo?rs=1&pid=ImgDetMain');
+    /* Đường dẫn đến hình nền 1 */
+     background-size: cover;
+    /* Chỉnh kích thước hình ảnh để phủ full background */
+
+}
+body.background-2 {
+    background-image: url('https: //tophinhanhdep.com/wp-content/uploads/2021/10/720x1480-Wallpapers.jpg');
+    /* Đường dẫn đến hình nền 2 */
+    background-size: cover;
+}
+
+
